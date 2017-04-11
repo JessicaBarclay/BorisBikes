@@ -9,4 +9,16 @@ class DockingStation
 
   end
 
+  def bike
+  end
+
 end
+
+=begin
+class Bike
+  def working?
+    true
+
+    end
+end
+=end
