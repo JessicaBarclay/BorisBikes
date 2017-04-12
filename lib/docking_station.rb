@@ -1,6 +1,7 @@
 require_relative 'bike'
 
 class DockingStation
+  
   DEFAULT_CAPACITY = 20
 
   attr_reader :capacity
@@ -33,5 +34,3 @@ class DockingStation
   end
 
 end
-
-# docking_station = DockingStation.new(50)
